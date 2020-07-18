@@ -38,7 +38,7 @@ export default {
 }
 `````
 #### Imagem provisória (da tela do projeto de Gustavo Pereira)
+#####Em breve estará a imagem de meu projeto.
+
 
 ![dashboard](https://i.imgur.com/RDZiIAK.png "dashboard")
-
-#####Em breve estará a imagem de meu projeto.
