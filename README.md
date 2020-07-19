@@ -41,4 +41,4 @@ export default {
 #####Em breve estará a imagem de meu projeto.
 
 
-![][dashboard](https://i.imgur.com/RDZiIAK.png "dashboard")
+https://i.imgur.com/RDZiIAK.png
