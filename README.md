@@ -1,46 +1,10 @@
-##Projeto de Mapeamento da Pandemia Covid 19
-This Project will be made in ReactJS and PWA 
-Sugested by Gustavo Pereira - Teacher at Digital Innovation One {Araraquara/SP/Brazil}
-Objective: to learn how to map the info about Covid 19 Pandemia
-using  the source data from Javier Aviles (Murcia/España) API: 
-{https://github.com/javieraviles}
-Deadline A: 31/12/2020; 
-Deadline B: 31/07/2021; 
-Source: https://coronavirus-19-api.herokuapp.com/countries
-Autor: Javier Aviles - Murcia (España) https://github.com/javieraviles
-An improvement idea: insert the percentage of total population with covid in each country;
-This shows the real situation in each country.
-Another idea: write this site in some languages like German (with subtitles in English or Spanish, perhapes);
-I will analize dataset from some countryes und show a dashboard with more important numbers.
-p.s: The original code will by searched in all dev community around this bad world.
-###bibliotecs and technologies used:
--ReactJS;
--PWA;
--Material UI.
+Projeto Digital Innovation One em parceria com o Prof. Dr. Neylson Crepalde
 
-#### JavaScript cdde example: ````javascript
-const path = 'https://coronavirus-19-api.herokkuapp.com/countries'
+Análise exploratória dos dados do COVID-19 com Python.
 
-const headers = {
-	method: 'get',
-	mode:  'cors',
-	cache: 'default'
-}
+DESCRIÇÃO
 
-function getCountry(country){
-	return fetch(`${path})/s{country}`, headers)
-	.then((response)) => response.json())
-}
+Neste Labs, vamos investigar os dados da disseminação do COVID-19 no Brasil desde o início da pandemia em fevereiro de 2020. Iremos estudar os padrões de disseminação da doença, investigar os números de infectados, de recuperados e de óbitos, para construir modelos com Python e Machine Learning para prever os números nos próximos dias e o ponto de virada da curva de infecção baseado em alguns cenários.
 
-export default {
-	getCountry
-}
-}
-`````
-#### Imagem provisória (da tela do projeto de Gustavo Pereira)
-
-https://i.imgur.com/RDZiIAK.png
-
-####Em breve estará a imagem de meu projeto.
-
-https://imgur.com/gallery/ADS4ike
+Consegui fazer tudo até a aula 9, mas o tal do profeta não se revelou para mim e não consegui reproduzir a aula 10 ;*(
+Mas até a aula 9 deu tudo certo! :-D
